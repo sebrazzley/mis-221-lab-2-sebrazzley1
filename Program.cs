@@ -23,7 +23,7 @@ fulfillmentRate = ordersFilled/ordersMade;
 milesPerOrder = milesDriven/ordersFilled;
 
 costPerOrder = milesPerOrder * DRIVERS_WAGE;
-
+//gi
 System.Console.WriteLine("Your fulfillment rate is " + fulfillmentRate);
 System.Console.WriteLine("Your cost per order is " + costPerOrder);
 
