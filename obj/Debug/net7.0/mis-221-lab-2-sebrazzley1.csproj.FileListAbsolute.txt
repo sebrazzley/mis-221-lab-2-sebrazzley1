@@ -1,0 +1,15 @@
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\bin\Debug\net7.0\mis-221-lab-2-sebrazzley1.exe
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\bin\Debug\net7.0\mis-221-lab-2-sebrazzley1.deps.json
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\bin\Debug\net7.0\mis-221-lab-2-sebrazzley1.runtimeconfig.json
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\bin\Debug\net7.0\mis-221-lab-2-sebrazzley1.dll
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\bin\Debug\net7.0\mis-221-lab-2-sebrazzley1.pdb
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.csproj.AssemblyReference.cache
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.AssemblyInfoInputs.cache
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.AssemblyInfo.cs
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.csproj.CoreCompileInputs.cache
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.dll
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\refint\mis-221-lab-2-sebrazzley1.dll
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.pdb
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\mis-221-lab-2-sebrazzley1.genruntimeconfig.cache
+C:\Users\sherl\MIS221\mis-221-lab-2-sebrazzley1\obj\Debug\net7.0\ref\mis-221-lab-2-sebrazzley1.dll
